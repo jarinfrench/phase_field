@@ -1,0 +1,10 @@
+Comment line
+GRID_X = 100
+GRID_Y = 100
+DX = 5.0
+SEED = 28945 
+N_ETA = 4
+NUMSTEPS = 1000000
+NSKIP = 100000
+DT = 0.0005
+mobility_file = mobilities.txt

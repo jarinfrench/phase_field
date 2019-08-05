@@ -1,0 +1,10 @@
+Comment line
+GRID_X = 100
+GRID_Y = 100
+DX = 5.0
+SEED = 42
+N_ETA = 36
+NUMSTEPS = 5000000
+NSKIP = 10000
+DT = 0.00005
+mobility_file = mobilities_80%_aniso.txt
